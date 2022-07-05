@@ -1,0 +1,244 @@
+.header .container-fluid{
+    width: 100%;
+    height: 600px;
+    background-image: url(media/im2);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: black
+  text-align: center;
+
+}
+
+
+#AA{
+    color: black;
+   
+}
+#AA:hover{
+    background-color: #030329;
+    color: white;
+}
+
+#right{
+    padding-top: 50px;
+}
+
+hr {
+   
+   color: white;
+  }
+#display{
+    padding-top: 50px;
+}
+#navbarNav{
+    text-align: center;
+}
+
+.about .container-fluid{
+    width: 100%;
+    height: 600px;
+
+}
+#left1{
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-left: 30px;
+  
+  
+}
+
+#right1{
+padding-top: 80px;
+    width: 50%;
+    height: 500px;
+    float: right;
+    padding-left: 0px 10px;
+  
+  
+}
+.d-grid .btn {
+    border-color: black;
+}
+.fa-brands {
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+
+}
+.fa-solid{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+.body1 .container-fluid{
+    width: 100%;
+    height: 600px;
+    background-image: url(media/im1);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+#h1{
+    padding-top: 50px;
+}
+
+#left3{
+    width: 25%;
+    height: 500px;
+    float: left;
+
+}
+#left4{
+    width: 25%;
+    height: 500px;
+    float: left;
+
+}
+#right3{
+    width: 25%;
+    height: 500px;
+    float: left;
+
+}
+#right4{
+    width: 25%;
+    height: 500px;
+    float: right;
+
+}
+
+
+.btn-circle {
+    width: 200px;
+    height: 200px;
+    padding: 9px 0px;
+    border-radius: 100px;
+    border-color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.42857;
+   margin-top: 80px;
+}
+.body2 .container-fluid{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+
+}
+.body3 .container-fluid{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    color: black;
+    text-align: center;
+
+}
+.body4 .container-fluid{
+   
+    text-align: center;
+}
+#btn-circle{
+    width: 120px;
+    height: 120px;
+    padding: 9px 0px;
+    border-radius: 60px;
+    border-color: #f68e56;
+    font-size: 35px;
+    line-height: 1.42857;
+   margin-top: 80px;
+}
+
+#fa-solid{
+    padding: 5px;
+    color: #f68e56; 
+
+}
+#but1{
+    background-color: #f68e56;
+}
+
+.profolio-section .container-fluid{
+    width: 100%;
+    height: 700px;
+    color: white;
+    background-color: #f68e56;
+    text-align: center;
+}
+#left5{
+    width: 25%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    padding: 0px 40px;
+}
+#left6{
+    width: 25%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    padding: 0px 40px;
+}
+#right5{
+    width: 25%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    padding: 0px 40px;
+}
+#right6{
+    width: 25%;
+    height: 600px;
+    float: right;
+text-align: center;
+padding: 0px 40px;
+}
+.blog-section .container{
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    color: black;
+}
+
+.Au{
+    color: #f68e56;
+}
+#but2{
+    background-color: white;
+    color: #f68e56;
+    border-color: #f68e56;
+}
+.contact-section .container-fluid{
+    width: 100%;
+    height: 700px;
+background-image: url(media/PP.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+  color: white;
+  text-align: center;
+}
+
+#fa{
+    font-size: xx-large;
+    
+}
+.form-control{
+    color: #030329;
+}
+
+.footer .container-fluid{
+    width: 100%;
+    height: 100px;
+background-color: #0b0b4e;
+color: white;
+text-align: center;
+padding-top: 35px;
+}
